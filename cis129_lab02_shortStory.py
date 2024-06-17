@@ -1,1 +1,5 @@
-print('Hello, World!')
+print("My name is Ben.") 
+print('I have a brother named Chris.')  
+print('He has a cat named Goblin.')
+print('Goblin used to be a stray neighborhood cat.')
+print('He no longer has any teeth so my brother adopted him.')
